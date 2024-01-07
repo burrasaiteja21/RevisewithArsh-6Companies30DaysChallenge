@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eed85e2-d3a1-4edc-a3e1-60e29e894993" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LetterCombinationsofaPhoneNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Numberfollowingapattern.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NumberofWaystoReachaPositionAfterExactlykSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Querykthsmallesttrimmednumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/combinationsum111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/findmissingandreaptingvalue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runlengthencoding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/RevisewithArsh-6Companies30DaysChallenge.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldmansachs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microsoft/CounttheNumberofIncremovableSubarraysI.java" beforeDir="false" afterPath="$PROJECT_DIR$/CounttheNumberofIncremovableSubarraysI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +33,12 @@
     "last_opened_file_path": "C:/Users/SAI TEJA/OneDrive/Desktop/feb/RevisewithArsh-6Companies30DaysChallenge"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SAI TEJA\OneDrive\Desktop\feb\RevisewithArsh-6Companies30DaysChallenge\microsoft" />
+      <recent name="C:\Users\SAI TEJA\OneDrive\Desktop\feb\RevisewithArsh-6Companies30DaysChallenge" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,11 +48,23 @@
       <option name="presentableId" value="Default" />
       <updated>1704526748845</updated>
       <workItem from="1704526750241" duration="5191000" />
-      <workItem from="1704646222009" duration="837000" />
+      <workItem from="1704646222009" duration="1171000" />
     </task>
+    <task id="LOCAL-00001" summary="day1">
+      <created>1704647285452</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704647285452</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day1" />
+    <option name="LAST_COMMIT_MESSAGE" value="day1" />
   </component>
 </project>
