@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eed85e2-d3a1-4edc-a3e1-60e29e894993" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Numberfollowingapattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumberofWaystoReachaPositionAfterExactlykSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microsoft/CounttheNumberofIncremovableSubarraysI.java" beforeDir="false" afterPath="$PROJECT_DIR$/CounttheNumberofIncremovableSubarraysI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberofWaystoReachaPositionAfterExactlykSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/NumberofWaystoReachaPositionAfterExactlykSteps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +32,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\SAI TEJA\OneDrive\Desktop\feb\RevisewithArsh-6Companies30DaysChallenge\microsoft" />
       <recent name="C:\Users\SAI TEJA\OneDrive\Desktop\feb\RevisewithArsh-6Companies30DaysChallenge" />
+      <recent name="C:\Users\SAI TEJA\OneDrive\Desktop\feb\RevisewithArsh-6Companies30DaysChallenge\microsoft" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704526748845</updated>
       <workItem from="1704526750241" duration="5191000" />
-      <workItem from="1704646222009" duration="1171000" />
+      <workItem from="1704646222009" duration="1803000" />
     </task>
     <task id="LOCAL-00001" summary="day1">
       <created>1704647285452</created>
@@ -57,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704647285452</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day2">
+      <created>1704647414061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704647414061</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,6 +69,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day1" />
-    <option name="LAST_COMMIT_MESSAGE" value="day1" />
+    <MESSAGE value="day2" />
+    <option name="LAST_COMMIT_MESSAGE" value="day2" />
   </component>
 </project>
