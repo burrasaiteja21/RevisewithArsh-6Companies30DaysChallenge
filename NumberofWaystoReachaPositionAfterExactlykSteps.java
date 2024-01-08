@@ -19,6 +19,6 @@ class Solution {
          int take=numways(start-1,end,k-1);
         int notake=numways(start+1,end,k-1);
         return (take+notake)%1000000007;
-        
+
     }
 }
