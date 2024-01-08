@@ -1,3 +1,4 @@
+//leetcode link: https://leetcode.com/problems/bulls-and-cows/
 /*
 Intuition
 The problem seems to involve finding the number of bulls and cows in a guessing game, where bulls represent correct digits in the correct positions, and cows represent correct digits in incorrect positions. The solution likely requires iterating through the strings and keeping track of counts.

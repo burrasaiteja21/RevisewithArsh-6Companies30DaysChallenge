@@ -1,3 +1,4 @@
+//leetcode link: https://leetcode.com/problems/image-smoother/
 /**
  * Intuition
  * The problem appears to involve image smoothing, where each pixel in the output image is computed as the average of its value and the values of its neighboring pixels. To solve this, we need to iterate through each pixel and calculate the average of its neighbors.
