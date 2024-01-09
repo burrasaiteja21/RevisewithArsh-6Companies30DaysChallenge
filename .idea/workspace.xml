@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eed85e2-d3a1-4edc-a3e1-60e29e894993" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MinimizetheMaximumofTwoArrays .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindConsecutiveIntegersfromaDataStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinimumMovestoEqualArrayElementsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highaccessemployees.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BullsandCows.java" beforeDir="false" afterPath="$PROJECT_DIR$/BullsandCows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CountNumberofNiceSubarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/CountNumberofNiceSubarrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImageSmoother.java" beforeDir="false" afterPath="$PROJECT_DIR$/ImageSmoother.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,8 @@
       <workItem from="1704526750241" duration="5191000" />
       <workItem from="1704646222009" duration="2197000" />
       <workItem from="1704721085891" duration="1258000" />
-      <workItem from="1704726351807" duration="1063000" />
+      <workItem from="1704726351807" duration="1115000" />
+      <workItem from="1704811589256" duration="1021000" />
     </task>
     <task id="LOCAL-00001" summary="day1">
       <created>1704647285452</created>
