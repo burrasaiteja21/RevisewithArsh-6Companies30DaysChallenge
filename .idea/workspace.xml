@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eed85e2-d3a1-4edc-a3e1-60e29e894993" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MaximumLengthofRepeatedSubarray .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumberofPeopleAwareofaSecret" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RotateFunction" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaximumLengthofRepeatedSubarray .java" beforeDir="false" afterPath="$PROJECT_DIR$/MaximumLengthofRepeatedSubarray .java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberofPeopleAwareofaSecret" beforeDir="false" afterPath="$PROJECT_DIR$/NumberofPeopleAwareofaSecret" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RotateFunction" beforeDir="false" afterPath="$PROJECT_DIR$/RotateFunction" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <workItem from="1704726351807" duration="1115000" />
       <workItem from="1704811589256" duration="2321000" />
       <workItem from="1704895761449" duration="2395000" />
-      <workItem from="1704985423682" duration="295000" />
+      <workItem from="1704985423682" duration="426000" />
     </task>
     <task id="LOCAL-00001" summary="day1">
       <created>1704647285452</created>
@@ -112,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704901594598</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="day6">
+      <created>1704985770606</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704985770606</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +141,7 @@
     <MESSAGE value="day2" />
     <MESSAGE value="day4" />
     <MESSAGE value="day5" />
-    <option name="LAST_COMMIT_MESSAGE" value="day5" />
+    <MESSAGE value="day6" />
+    <option name="LAST_COMMIT_MESSAGE" value="day6" />
   </component>
 </project>
