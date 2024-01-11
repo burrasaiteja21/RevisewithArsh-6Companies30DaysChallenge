@@ -1,0 +1,53 @@
+class Solution {
+    public int maxRotateFunction(int[] nums)
+    {
+        int n = nums.length;
+        int sum = 0;
+        int funcValue = 0;
+
+        for (int i = 0; i < n; i++) {
+            sum += nums[i];
+            funcValue += i * nums[i];
+        }
+
+        int maxFuncValue = funcValue;
+
+        for (int i = 1; i < n; i++) {
+            funcValue = funcValue + sum - n * nums[n - i];
+            maxFuncValue = Math.max(maxFuncValue, funcValue);
+        }
+
+        return maxFuncValue;
+    }
+}
+//         if(nums.length==1)
+//         {
+//             return 0;
+//         }
+//          int n=nums.length;
+// 		 int[] arr=new int[n+n];
+
+// 		 for(int i=0;i<2*n;i++)
+// 		 {
+// 		     arr[i]=nums[i%n];
+
+// 		 }
+//        return  rotatefunctionmax(0,n,arr);
+//     }
+//     public int rotatefunctionmax(int ind,int n,int[] arr)
+// 	{
+// 	   int maxx = Integer.MIN_VALUE;
+
+//         for (int i = ind; i <= arr.length - n; i++) {
+//             int res = 0;
+
+//             for (int j = i; j < n + i; j++) {
+//                 res += (j - i) * arr[j];
+//             }
+
+//             maxx = Math.max(res, maxx);
+//         }
+
+//         return maxx;
+//     }
+// }

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eed85e2-d3a1-4edc-a3e1-60e29e894993" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1373.MaximumSumBSTinBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/187.RepeatedDNASequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2261.KDivisibleElementsSubarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximumLengthofRepeatedSubarray .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumberofPeopleAwareofaSecret" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RotateFunction" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,8 @@
       <workItem from="1704721085891" duration="1258000" />
       <workItem from="1704726351807" duration="1115000" />
       <workItem from="1704811589256" duration="2321000" />
-      <workItem from="1704895761449" duration="1716000" />
+      <workItem from="1704895761449" duration="2395000" />
+      <workItem from="1704985423682" duration="295000" />
     </task>
     <task id="LOCAL-00001" summary="day1">
       <created>1704647285452</created>
@@ -104,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704814825365</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="day5">
+      <created>1704901594598</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704901594598</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +133,7 @@
     <MESSAGE value="day1" />
     <MESSAGE value="day2" />
     <MESSAGE value="day4" />
-    <option name="LAST_COMMIT_MESSAGE" value="day4" />
+    <MESSAGE value="day5" />
+    <option name="LAST_COMMIT_MESSAGE" value="day5" />
   </component>
 </project>
