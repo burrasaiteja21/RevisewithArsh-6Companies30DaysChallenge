@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eed85e2-d3a1-4edc-a3e1-60e29e894993" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1208GetEqualSubstringsWithinBudget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/532.K-diffPairsinanArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +68,8 @@
       <workItem from="1704985423682" duration="444000" />
       <workItem from="1705072479501" duration="2483000" />
       <workItem from="1705156077045" duration="1068000" />
-      <workItem from="1705412732620" duration="2031000" />
+      <workItem from="1705412732620" duration="2053000" />
+      <workItem from="1705681523975" duration="474000" />
     </task>
     <task id="LOCAL-00001" summary="day1">
       <created>1704647285452</created>
@@ -149,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705412790472</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="day9">
+      <created>1705425547145</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1705425547145</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +180,7 @@
     <MESSAGE value="day6" />
     <MESSAGE value="day7" />
     <MESSAGE value="day8" />
-    <option name="LAST_COMMIT_MESSAGE" value="day8" />
+    <MESSAGE value="day9" />
+    <option name="LAST_COMMIT_MESSAGE" value="day9" />
   </component>
 </project>
