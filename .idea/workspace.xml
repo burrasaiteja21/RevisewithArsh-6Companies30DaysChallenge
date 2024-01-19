@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7eed85e2-d3a1-4edc-a3e1-60e29e894993" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7eed85e2-d3a1-4edc-a3e1-60e29e894993" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +67,7 @@
       <workItem from="1705072479501" duration="2483000" />
       <workItem from="1705156077045" duration="1068000" />
       <workItem from="1705412732620" duration="2053000" />
-      <workItem from="1705681523975" duration="474000" />
+      <workItem from="1705681523975" duration="783000" />
     </task>
     <task id="LOCAL-00001" summary="day1">
       <created>1704647285452</created>
@@ -155,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705425547145</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="day7">
+      <created>1705682305421</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1705682305421</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,9 +183,9 @@
     <MESSAGE value="day4" />
     <MESSAGE value="day5" />
     <MESSAGE value="day6" />
-    <MESSAGE value="day7" />
     <MESSAGE value="day8" />
     <MESSAGE value="day9" />
-    <option name="LAST_COMMIT_MESSAGE" value="day9" />
+    <MESSAGE value="day7" />
+    <option name="LAST_COMMIT_MESSAGE" value="day7" />
   </component>
 </project>
